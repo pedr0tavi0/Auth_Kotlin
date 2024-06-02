@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139087917184",
+    "project_id": "cigarrinho-55578",
+    "storage_bucket": "cigarrinho-55578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139087917184:android:a741b2ce427a5097fef665",
+        "android_client_info": {
+          "package_name": "com.example.a10052024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWTa4nS-GBhW60REu5XjUE1-VkK_-vJ-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
